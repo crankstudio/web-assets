@@ -1,0 +1,31 @@
+{
+  "site": "Crank Studio | Montreal Design Agency",
+  "webflowSiteId": "6a303810997e320907acbc0f",
+  "baseTemplate": "Éponyme (Webflow template)",
+  "nav": [
+    {
+      "label": "CrankStudio",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    }
+  ],
+  "home": {
+    "seoTitle": "Crank Studio - Montreal Based Design Studio",
+    "logoText": "CrankStudio",
+    "tagline": "Crank Studio partners with companies at pivotal moments—when evolution is required, and a sharper identity and digital presence can unlock bigger opportunities."
+  },
+  "pages": [
+    "/",
+    "/directory",
+    "/work/[slug]",
+    "/about",
+    "/videos",
+    "/journal/[slug]",
+    "/journal-category/[slug]",
+    "/work-category/[slug]",
+    "/404"
+  ]
+}

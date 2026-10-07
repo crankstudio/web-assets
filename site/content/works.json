@@ -1,0 +1,227 @@
+{
+  "categories": {
+    "branding": "Branding",
+    "design": "Design",
+    "web": "Web"
+  },
+  "works": [
+    {
+      "number": 1,
+      "numberLabel": "(01)",
+      "slug": "obrien-landscape",
+      "name": "O'Brien Landscape",
+      "description": "Luxury by Design",
+      "categories": [
+        "branding",
+        "design",
+        "web"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a31a6ef4c7bb48de06e6df6_obrien-landscape-carpenter-pencils.avif",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a3448a824ee4783017a5113_obrien-Pencil-Mockup-home.jpg",
+      "featured": true,
+      "comingSoon": false,
+      "images": [
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f8644c94038ed16530f1_obrien-landscape-carpenter-pencils.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f8ead95d21208d58a459_obrien-landscape-web-design-03.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f8af19cb70ad65470b86_obrien-landscape-business-card-design.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f97c272f7f456378f43f_obrien-landscape-web-design-01.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f8aab0dabf7c84b9368c_obrien-landscape-web-design-mobile-01.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f9931b7d71810471b4cc_obrien-landscape-stationary-design.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f8baf8d799c035d9f434_obrien-landscape-proposal-design.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f8fa8b5ab7a490c2223f_obrien-landscape-web-design-02.jpg"
+      ],
+      "videos": [],
+      "declaredImageCount": 8
+    },
+    {
+      "number": 2,
+      "numberLabel": "(02)",
+      "slug": "merchant-north",
+      "name": "Merchant North",
+      "description": "Thinker, doers, creatives, & problem solvers.",
+      "categories": [
+        "branding",
+        "design",
+        "web"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a31a69a11c023fc15a93806_merchant-north-newspaper.avif",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a34342e7ae18c193f67eb8b_Merchant-North-8-Elegant.gif",
+      "featured": true,
+      "comingSoon": false,
+      "images": [
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a3433cf52584f57f9827ec9_merchant-north-newspaper.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a3433df7da826ef15ab09aa_merchant-north-signage-design.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a3433e6711bba5864632a54_merchant-north-coaster-design.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a3433f3938d07a56870b77b_merchant-north-poster-design.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a3433f89f01ed6ef58164b9_merchant-north-web-design.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a3433fc615ef6cb0a8a5e3a_merchant-north-mobile-web-design.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a34342060eb6fd28739bb9f_Merchant%20North%20%20Patter%20Design.png",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a34342e7ae18c193f67eb8b_Merchant-North-8-Elegant.gif"
+      ],
+      "videos": [],
+      "declaredImageCount": 4
+    },
+    {
+      "number": 3,
+      "numberLabel": "(03)",
+      "slug": "newsam",
+      "name": "Newsam Construction",
+      "description": "Coming Soon",
+      "categories": [
+        "branding",
+        "design",
+        "web"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a4417a64947d790739b233b_newsam-construction-hording.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a442329fd7a556597777cef_newsam-outdoor-banner-thumb.jpg",
+      "featured": true,
+      "comingSoon": true,
+      "images": [
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32f4de492c9c81bdb4ab5f_Newsam-1-Elegant.gif",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32bb6add4c56f923324cec_Newsam-2.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32bb6fd347a76df31fc273_Newsam%203.png",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32bb74b1a3bd7e2c46a74c_Newsam-4.jpg",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32bb7ca5c486928339810c_Newsam%205.png",
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a32bb7fbc8a63c4d197be20_Newsam%206.png"
+      ],
+      "videos": [],
+      "declaredImageCount": 6
+    },
+    {
+      "number": 4,
+      "numberLabel": "(04)",
+      "slug": "exeo-attorneys",
+      "name": "Exeo Attorneys",
+      "description": "Immigration Made Simple",
+      "categories": [
+        "branding",
+        "design",
+        "web"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a31a677911b3b020f389fcd_Exeo-attorneys-stationary-design.avif",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a44627d4cd13239611ef414_exeo-attorneys-mobile-design.jpg",
+      "featured": true,
+      "comingSoon": false,
+      "images": [],
+      "videos": [],
+      "declaredImageCount": 7
+    },
+    {
+      "number": 5,
+      "numberLabel": "(05)",
+      "slug": "toller-hawk",
+      "name": "Toller & Hawk",
+      "description": "Crafted in Nova Scotia",
+      "categories": [
+        "branding",
+        "design",
+        "web"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a31a63a740ace5d22b558d3_toller-and-hawk-web-design.avif",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a4467cc60acea33ff2f9174_toller-and-hawk-embroidery-design-thumb.jpg",
+      "featured": true,
+      "comingSoon": false,
+      "images": [],
+      "videos": [],
+      "declaredImageCount": null
+    },
+    {
+      "number": 6,
+      "numberLabel": "(06)",
+      "slug": "house-of-electrical",
+      "name": "House of Electrical",
+      "description": "The House Advanage",
+      "categories": [
+        "branding",
+        "design"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a31a60cc922fd7215bda82c_house-of-electrical-tshirt-design.avif",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a4468ed51caabc3866d27af_house-Beanie-design.jpg",
+      "featured": true,
+      "comingSoon": false,
+      "images": [],
+      "videos": [],
+      "declaredImageCount": null
+    },
+    {
+      "number": 7,
+      "numberLabel": "(07)",
+      "slug": "mighty-pixel",
+      "name": "Mighty Pixel",
+      "description": "The pixel is mightier than the sword",
+      "categories": [
+        "branding",
+        "design",
+        "web"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a31adb8729a1d0790b7e9b4_MightyPixel-poster-design.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a446ad7c6ed12804ecbb602_mighty-pixel-mobile-design-thumb.jpg",
+      "featured": true,
+      "comingSoon": false,
+      "images": [],
+      "videos": [],
+      "declaredImageCount": null
+    },
+    {
+      "number": 8,
+      "numberLabel": "(08)",
+      "slug": "cervo-marketing",
+      "name": "Cervo Marketing",
+      "description": "Take control of your Agency’s future",
+      "categories": [
+        "branding",
+        "design",
+        "web"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a398b5e1729f0d736145d6d_cervo-marketing-branding.gif",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a446bcd7f15ab5add4d7d73_cervo-marketing-branding.gif",
+      "featured": true,
+      "comingSoon": false,
+      "images": [],
+      "videos": [],
+      "declaredImageCount": null
+    },
+    {
+      "number": 9,
+      "numberLabel": "(09)",
+      "slug": "kava-chain",
+      "name": "Kava Chain",
+      "description": "Decentralized blockchain",
+      "categories": [
+        "branding",
+        "design",
+        "web"
+      ],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a4419d9045393e9bab386c5_kava-web-1.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a446d4aec947ba4dd569976_kava-blockchain-thumb-2.jpg",
+      "featured": true,
+      "comingSoon": false,
+      "images": [],
+      "videos": [],
+      "declaredImageCount": null
+    },
+    {
+      "number": 10,
+      "numberLabel": "(10)",
+      "slug": "hiveminded",
+      "name": "Hiveminded",
+      "description": "When great minds come together",
+      "categories": [],
+      "mainImage": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a4421b4ad8da7cef9eef6fd_Hiveminded-poster-design.jpg",
+      "thumbnail": "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a446df3c6ed12804eccaaa5_hiveminded-business-card-design.jpg",
+      "featured": true,
+      "comingSoon": false,
+      "images": [
+        "https://cdn.prod.website-files.com/6a303810997e320907acbbf3/6a890c06bb486f283d1da560_hiveminded-iphone-web-design.jpg"
+      ],
+      "videos": [
+        {
+          "mp4": "https://cdn.prod.website-files.com/6a303810997e320907acbc0f%2F6a8903aa7527519f12120e70_Dynamic-Text-4-5_1_mp4.mp4",
+          "webm": "https://cdn.prod.website-files.com/6a303810997e320907acbc0f%2F6a8903aa7527519f12120e70_Dynamic-Text-4-5_1_webm.webm",
+          "slot": 1
+        }
+      ],
+      "declaredImageCount": 8
+    }
+  ]
+}
