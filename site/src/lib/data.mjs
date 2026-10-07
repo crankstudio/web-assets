@@ -31,6 +31,13 @@ export function asset(url) {
   if (fs.existsSync(path.join(root, 'public/work', name))) {
     return '/work/' + encodeURIComponent(name).replace(/%2F/g, '/');
   }
+  if (process.env.PLACEHOLDER_IMAGES && !/\.(mp4|webm)$/i.test(name)) {
+    // Preview-only: neutral tile when the real image isn't available locally.
+    let h = 0;
+    for (const c of name) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+    const g = 150 + (h % 70);
+    return `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Crect width='4' height='5' fill='rgb(${g},${g},${g})'/%3E%3C/svg%3E`;
+  }
   return url;
 }
 
