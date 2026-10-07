@@ -27,5 +27,6 @@
     "/journal-category/[slug]",
     "/work-category/[slug]",
     "/404"
-  ]
+  ],
+  "contactEmail": "peter@crankstudio.ca"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "crankstudio-site",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "fetch-assets": "node scripts/fetch-assets.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.18.2",
+    "cheerio": "^1.2.0",
+    "gsap": "3.15",
+    "jquery": "^3.5.1"
+  }
+}
